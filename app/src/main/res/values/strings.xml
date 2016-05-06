@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="main_screen">Main Screen</string>
+    <string name="detail_screen">Detail Screen</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="body">Body:</string>
+    <string name="please_wait">Please Wait.....</string>
+    <string name="fetching_data">Fetching Data.....</string>
+
+</resources>
